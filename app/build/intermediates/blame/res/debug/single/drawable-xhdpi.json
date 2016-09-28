@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\stuff\\installed\\Android\\workspace\\WiFiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_on_off.png",
+        "source": "D:\\stuff\\installed\\Android\\workspace\\WiFiDirectDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_on_off.png"
+    },
+    {
+        "merged": "D:\\stuff\\installed\\Android\\workspace\\WiFiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\stuff\\installed\\Android\\workspace\\WiFiDirectDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\stuff\\installed\\Android\\workspace\\WiFiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_discover.png",
+        "source": "D:\\stuff\\installed\\Android\\workspace\\WiFiDirectDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_discover.png"
+    }
+]

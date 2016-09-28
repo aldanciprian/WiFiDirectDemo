@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="606120964950285"
+    token="7668741891054565172"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="837" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="491" />
+    <task
+        name="verifier"
+        duration="286" />
+
+    <artifact
+        location="D:\stuff\installed\Android\workspace\WiFiDirectDemo\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="606120964950285"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\stuff\installed\Android\workspace\WiFiDirectDemo\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
